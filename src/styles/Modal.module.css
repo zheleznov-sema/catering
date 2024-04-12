@@ -1,0 +1,95 @@
+.modalBackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+    visibility: hidden;
+}
+
+.modalBackground.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modalContainer {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    max-height: 80%;
+    overflow-y: auto;
+    transform: scale(0.9);
+    transition: all 300ms ease-in-out;
+}
+
+.modalContainer.active {
+    transform: scale(1);
+}
+
+.closeButton {
+    align-self: flex-end;
+    font-size: 25px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.dishImage {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.dishTitle {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.dishAttribute{
+    color: grey;
+    font-size: 14px;
+}
+
+.dishPrice {
+    font-size: 18px;
+    font-weight: 700;
+    color: darkcyan;
+    margin: 5px 0;
+}
+
+.dishInfo {
+    align-self: stretch;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 8px;
+    font-size: 14px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+.dishDescription {
+    font-size: 14px;
+    color: #666;
+    margin: 10px 0;
+    text-align: center;
+    padding: 10px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}

@@ -1,26 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// Импорт компонента MenuCategories
+import MenuCategories from "./components/MenuCategories";
+// Импорт данных меню из локального файла JSON
+import menu from './api/menu.json';
+import './app.css';
 
+// Определение функционального компонента App для основной структуры приложения
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    // 'data' - это пропс, через который передаются данные о меню в компонент MenuCategories
+    return (
+        <div className="App">
+            <MenuCategories data={menu}/>
+        </div>
+    );
 }
 
 export default App;

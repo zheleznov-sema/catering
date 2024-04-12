@@ -1,0 +1,120 @@
+.title {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    width: 300px;
+    line-height: 130%;
+    margin: 0 0 8px 0;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    flex-wrap: wrap;
+    width: 400px;
+    border: 2px solid lightgrey;
+    border-radius: 20px;
+    align-items: center;
+    justify-content:space-between ;
+    position: relative;
+}
+
+
+.info{
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+    align-items: center;
+}
+
+.imageContainerColor{
+    height: 220px;
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+    margin-bottom: 16px;
+    background-color: rgba(71, 89, 176, 0.629);
+    opacity: 20%;
+    z-index: 100;
+    position: relative;
+    display: block; 
+    object-fit: cover;
+    transition: background-color 0.3s ease;
+}
+
+
+.imageContainer{
+    height: 220px;
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+    margin-bottom: 16px;
+}
+
+.img {
+    height: 220px;
+    width: 100%;
+    border-radius: 20px 20px 0 0 ;
+    margin-bottom: 16px;
+    cursor: pointer;
+    z-index: 0;
+    position: relative;
+}
+.img:active {
+    color: plum;
+    background-color: blueviolet !important;
+  }
+  
+
+.countItem{
+    position:absolute;
+    top:50%;
+    font-size: 45px;
+    z-index: 200;
+    left: 47%;
+    font-weight:bold;
+}
+
+.description{
+    width: 300px;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    color: grey;
+    margin: 0;
+}
+.cost {
+    font-size: 18px;
+    font-weight: 700;
+    color: darkcyan;
+}
+.weight {
+    font-size: 18px;
+    color: grey;
+}
+.counter {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.counterButton {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+}
+
+.counterButton:hover {
+    background-color: #e0e0e0;
+}
+
+.countValue {
+    font-size: 16px;
+    margin: 0 10px;
+}

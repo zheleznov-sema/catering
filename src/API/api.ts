@@ -1,0 +1,1 @@
+export const imageUrl = 'https://smartapp.acs-cis.ru:9443/Menu/'

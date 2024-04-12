@@ -1,0 +1,758 @@
+{
+    "success": true,
+    "errorMessage": "",
+    "notification": null,
+    "servicePos": [
+        {
+            "itemType": "tableware_item",
+            "itemCode": "НФ-00000263",
+            "itemName": "Набор (нож/вилка/салфетка/зубоч.) (МБ)",
+            "itemDescription": "Набор (нож/вилка/салфетка/зубоч.) (МБ)",
+            "url": "НФ-00000263.png",
+            "itemWeight": 0,
+            "itemPrice": 15,
+            "quantity": 0
+        },
+        {
+            "itemType": "package_item",
+            "itemCode": "НФ-00001656",
+            "itemName": "Пакет фасовочный крафт 24*14*28 ",
+            "itemDescription": "Пакет фасовочный крафт 24*14*28 ",
+            "url": "default.png",
+            "itemWeight": 0,
+            "itemPrice": 8.17,
+            "quantity": 0
+        },
+        {
+            "itemType": "free_package_item",
+            "itemCode": "НФ-00002552",
+            "itemName": "Пакет-майка",
+            "itemDescription": "(бесплатно)",
+            "url": "default.png",
+            "itemWeight": 0,
+            "itemPrice": 0,
+            "quantity": 0
+        }
+    ],
+    "menuDate": "2024-02-16T11:30:11",
+    "menuGroup": "Меню Кейтеринг НКИ",
+    "serviceSettings": {
+        "serviceEnable": true,
+        "serviceTips": "Заказ доступен до 14 часов"
+    },
+    "serviceTimes": [
+        {
+            "serviceTimeName": "Обед",
+            "serviceTimeCode": 1,
+            "serviceTimeZone": "00:00 - 00:00",
+            "menuCategories": [
+                {
+                    "catName": "КОМБО",
+                    "catCode": "0003995959",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002662",
+                            "itemName": "Комбо № 4 (при покупке КОМБО напиток бесплатно)",
+                            "itemDescription": "Салат из маринованных огурцов с луком Оджахури из свинины Морс из черной смородины Кекс столичный Соус чесночный",
+                            "url": "НФ-00002662.jpg",
+                            "quantity": 0,
+                            "itemWeight": 395,
+                            "itemPrice": 179,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 7.2,
+                                "fats": 29.29,
+                                "carbohydrates": 96.2,
+                                "kcal": 677.22
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Завтрак",
+                    "catCode": "0000033581",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002537",
+                            "itemName": "Каша молочная пшенная ",
+                            "itemDescription": "Крупа пшено, сахар песок, соль, масло сливочное, молоко 1литр, вода для приготовления блюд",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 200,
+                            "itemPrice": 20,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 7.91,
+                                "fats": 8.28,
+                                "carbohydrates": 41.14,
+                                "kcal": 270.71
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002540",
+                            "itemName": "Каша геркулесовая с яблоками",
+                            "itemDescription": "Сахар песок, соль, хлопья овсяные (геркулес), масло сливочное, молоко, яблоки, вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 220,
+                            "itemPrice": 32,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 7.45,
+                                "fats": 9.64,
+                                "carbohydrates": 38.95,
+                                "kcal": 272.36
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00001561",
+                            "itemName": "Омлет,\u00A0запеченный\u00A0с\u00A0горошком",
+                            "itemDescription": "Масло растительное, соль, Молоко, яйцо куриное, горошек зеленый консервированный.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 135,
+                            "itemPrice": 41,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 11.93,
+                                "fats": 17.6,
+                                "carbohydrates": 3.89,
+                                "kcal": 221.68
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00003924",
+                            "itemName": "Горячий бутерброд с ветчиной на тостовом хлебе ",
+                            "itemDescription": "Хлеб тостовый, сыр, сметана, помидоры свежие, перец свежий красный, майонез, ветчина, кетчуп .",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 54,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 6.29,
+                                "fats": 15.08,
+                                "carbohydrates": 1.38,
+                                "kcal": 166.35
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002522",
+                            "itemName": "Запеканка из творога с курагой",
+                            "itemDescription": "Творог, дрожжи, масло растительное, мука пшеничная в/с, сахар песок, соль, курага, крупа манная, яйцо куриное.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 70,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 13.67,
+                                "fats": 9.66,
+                                "carbohydrates": 28.54,
+                                "kcal": 255.82
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002546",
+                            "itemName": "Отварное яйцо",
+                            "itemDescription": "Вода для приготовления, соль, яйцо куриное,",
+                            "url": "НФ-00002546.png",
+                            "quantity": 0,
+                            "itemWeight": 40,
+                            "itemPrice": 16,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 5.08,
+                                "fats": 4.36,
+                                "carbohydrates": 0.28,
+                                "kcal": 60.68
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002569",
+                            "itemName": "Сметана ",
+                            "itemDescription": "",
+                            "url": "НФ-00002569.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.56,
+                                "fats": 4,
+                                "carbohydrates": 0.64,
+                                "kcal": 40.8
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002630",
+                            "itemName": "Сгущенное молоко ",
+                            "itemDescription": "Молоко сгущеное",
+                            "url": "НФ-00002630.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 8,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 1.44,
+                                "fats": 1.7,
+                                "carbohydrates": 11.2,
+                                "kcal": 65.86
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Холодные блюда",
+                    "catCode": "0000033564",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002756",
+                            "itemName": "Морковь по-корейски с кальмарами ",
+                            "itemDescription": "Кальмары с/м , кориандр зерно, масло растительное, сахар песок, соль, морковь, чеснок, лук репчатый, перец красный чили молотый, уксус столовый 9%.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 52,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 10.08,
+                                "fats": 13.27,
+                                "carbohydrates": 8.07,
+                                "kcal": 192.02
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002653",
+                            "itemName": "Салат из б/к капусты \"Летний\" ",
+                            "itemDescription": "Масло растительное, сахар песок, соль, капуста белокочанная, огурцы, укроп свежий, чеснок, лук репчатый, петрушка свежая, перец свежий красный, перец красный чили молотый.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 35,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 1.57,
+                                "fats": 12,
+                                "carbohydrates": 6.01,
+                                "kcal": 138.29
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00006505",
+                            "itemName": "Салат из свежих овощей с киноа ",
+                            "itemDescription": "Киноа, огурцы, помидоры свежие, редис красный, масло растительное, лимон, маслины б/к, соль.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 56,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 3.1,
+                                "fats": 9.49,
+                                "carbohydrates": 12.22,
+                                "kcal": 146.66
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002996",
+                            "itemName": "Салат с говядиной и овощами ",
+                            "itemDescription": "Кориандр зерно, масло растительное, сахар песок, соль, морковь, кунжут белый, чеснок, лук репчатый, перец свежий красный, говядина, перец красный чили молотый, перец черный молотый, уксус столовый 9%, соус соевый, огурцы свежие.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 65,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 8.68,
+                                "fats": 10,
+                                "carbohydrates": 4.79,
+                                "kcal": 143.89
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Комлекс",
+                    "catCode": "0013164625",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00005632",
+                            "itemName": "Отварные макароны с  куриными фрикадельками в соусе",
+                            "itemDescription": "Вода для приготовления блюд, масло растительное, мука пшеничная в/с, томатная паста, сахар песок, соль, перец черный молотый, яйцо куриное, макаронные изделия в ассортименте, масло сливочное, перец красный паприка молотый, лук репчатый, морковь, курица тушка с/м.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 300,
+                            "itemPrice": 118,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 26.39,
+                                "fats": 24.94,
+                                "carbohydrates": 48.38,
+                                "kcal": 523.56
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00006293",
+                            "itemName": "Гороховое пюре со свининой по-чешски",
+                            "itemDescription": "Горох сухой , молоко, соль, масло растительное, горчица столовая, перец красный паприка молотый, мука пшеничная в/с, лук репчатый, свинина окорок б/к с/м.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 250,
+                            "itemPrice": 92,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 33.21,
+                                "fats": 40.61,
+                                "carbohydrates": 43.06,
+                                "kcal": 670.6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Вторые блюда",
+                    "catCode": "0000033566",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00006486",
+                            "itemName": "Зразы из трески с грибами ",
+                            "itemDescription": "Треска тушка б/г с/м , соль, перец черный молотый, мука пшеничная в/с, дрожжи сухие, сахар песок, вода для приготовления блюд, масло растительное, масло сливочное, грибы шампиньоны с/м, лук репчатый, яйцо куриное.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 72,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 19.54,
+                                "fats": 14.24,
+                                "carbohydrates": 26.04,
+                                "kcal": 310.46
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002440",
+                            "itemName": "Куриная печень жареная с луком (рекомендован соус Тар-тар)",
+                            "itemDescription": "Куриная печень с/м, масло растительное, соль, лук репчатый, перец черный молотый, крахмал картофельный.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 130,
+                            "itemPrice": 67,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 36.79,
+                                "fats": 23.73,
+                                "carbohydrates": 12.35,
+                                "kcal": 410.13
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Диетические блюда",
+                    "catCode": "0000033567",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00001611",
+                            "itemName": "Куриное филе припущенное с карри ",
+                            "itemDescription": "Лимонная кислота, масло растительное, соль, куриное филе, карри.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 77,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 33.06,
+                                "fats": 7.87,
+                                "carbohydrates": 1.06,
+                                "kcal": 207.26
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002653",
+                            "itemName": "Салат из б/к капусты \"Летний\" ",
+                            "itemDescription": "Масло растительное, сахар песок, соль, капуста белокочанная, огурцы, укроп свежий, чеснок, лук репчатый, петрушка свежая, перец свежий красный, перец красный чили молотый.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 35,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 1.57,
+                                "fats": 12,
+                                "carbohydrates": 6.01,
+                                "kcal": 138.29
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00006505",
+                            "itemName": "Салат из свежих овощей с киноа ",
+                            "itemDescription": "Киноа, огурцы, помидоры свежие, редис красный, масло растительное, лимон, маслины б/к, соль.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 56,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 3.1,
+                                "fats": 9.49,
+                                "carbohydrates": 12.22,
+                                "kcal": 146.66
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Гарниры",
+                    "catCode": "0000033568",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00003321",
+                            "itemName": "Овощи гриль ",
+                            "itemDescription": "Масло растительное, соль, баклажан, чеснок, кабачки, перец свежий красный, перец черный молотый, соус соевый.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 150,
+                            "itemPrice": 64,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 2.67,
+                                "fats": 15.28,
+                                "carbohydrates": 12.21,
+                                "kcal": 196.99
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00005649",
+                            "itemName": "Рис припущенный с куркумой",
+                            "itemDescription": "Крупа Рис,масло сливочное,куркума,соль",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 150,
+                            "itemPrice": 18,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.12,
+                                "fats": 5.12,
+                                "carbohydrates": 45.36,
+                                "kcal": 228.05
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Выпечка",
+                    "catCode": "0000033571",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002562",
+                            "itemName": "Сосиска в тесте ",
+                            "itemDescription": "Дрожжи, масло растительное, мука пшеничная в/с, сахар песок, соль, масло сливочное, молоко, сосиски, яйцо куриное.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 100,
+                            "itemPrice": 25,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 9.31,
+                                "fats": 26.4,
+                                "carbohydrates": 27.62,
+                                "kcal": 385.29
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002655",
+                            "itemName": "Пирожок печеный с печенью и рисом ",
+                            "itemDescription": "Дрожжи сухие, масло растительное, мука пшеничная в/с, сахар песок, соль, масло сливочное, молоко, морковь, лук репчатый, печень говяжья с/м, крупа рис круглозерный, яйцо куриное, перец черный молотый, вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 60,
+                            "itemPrice": 18,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 5.94,
+                                "fats": 7.54,
+                                "carbohydrates": 25.49,
+                                "kcal": 193.57
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002582",
+                            "itemName": "Сочник с творогом ",
+                            "itemDescription": "Творог, масло растительное, мука пшеничная в/с, сахар песок, соль, маргарин, сметана, ванилин, пудра сахарная, яйцо куриное, сода.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 110,
+                            "itemPrice": 39,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 12.32,
+                                "fats": 22.71,
+                                "carbohydrates": 66.47,
+                                "kcal": 519.54
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Напиток",
+                    "catCode": "0003995961",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002483",
+                            "itemName": "Морс из черной смородины ",
+                            "itemDescription": "Сахар песок, смородина черная с/м, вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 500,
+                            "itemPrice": 51,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.6,
+                                "fats": 0.12,
+                                "carbohydrates": 43.54,
+                                "kcal": 177.64
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Соус",
+                    "catCode": "0000081545",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002568",
+                            "itemName": "Кетчуп",
+                            "itemDescription": "Кетчуп ",
+                            "url": "НФ-00002568.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 5,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0,
+                                "fats": 0,
+                                "carbohydrates": 0,
+                                "kcal": 0
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002567",
+                            "itemName": "Майонез",
+                            "itemDescription": "Майонез",
+                            "url": "НФ-00002567.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 5,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.62,
+                                "fats": 13.4,
+                                "carbohydrates": 0.52,
+                                "kcal": 125.16
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002570",
+                            "itemName": "Горчица",
+                            "itemDescription": "Сахар песок, соль, вода для приготовления блюд, горчица сухая, масло растительное, уксус столовый 9%.",
+                            "url": "НФ-00002570.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 3,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0,
+                                "fats": 0.46,
+                                "carbohydrates": 1.26,
+                                "kcal": 9.12
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002569",
+                            "itemName": "Сметана ",
+                            "itemDescription": "",
+                            "url": "НФ-00002569.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.56,
+                                "fats": 4,
+                                "carbohydrates": 0.64,
+                                "kcal": 40.8
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002558",
+                            "itemName": "Соус \"Апельсиновый\" ",
+                            "itemDescription": "Тимьян сухой, сок в ассортименте (для приготовления блюд), соль, крахмал картофельный , вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.1,
+                                "fats": 0.09,
+                                "carbohydrates": 2.79,
+                                "kcal": 12.39
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002506",
+                            "itemName": "Соус \"Барбекю\"",
+                            "itemDescription": "Уксус бальзамический, чернослив, чеснок, Кетчуп , соус чили.",
+                            "url": "НФ-00002506.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.11,
+                                "fats": 0.03,
+                                "carbohydrates": 2.39,
+                                "kcal": 10.26
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002994",
+                            "itemName": "Соус чесночный  ",
+                            "itemDescription": "Укроп свежий, чеснок, майонез.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.65,
+                                "fats": 12.07,
+                                "carbohydrates": 0.83,
+                                "kcal": 114.54
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002473",
+                            "itemName": "Соус \"Майонез с карри\" ",
+                            "itemDescription": "Карри, майонез.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.68,
+                                "fats": 14.1,
+                                "carbohydrates": 0.6,
+                                "kcal": 131.97
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002505",
+                            "itemName": "Соус \"Тайский чилли\" ",
+                            "itemDescription": "Имбирь сухой, мед, чеснок, перец черный молотый, уксус столовый 9%, соус соевый, крахмал картофельный , вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.03,
+                                "fats": 0,
+                                "carbohydrates": 1.53,
+                                "kcal": 6.23
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002474",
+                            "itemName": "Соус \"Тар-тар\" ",
+                            "itemDescription": "Укроп свежий, чеснок, лук репчатый, майонез, огурцы консервированные.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.59,
+                                "fats": 6.3,
+                                "carbohydrates": 0.55,
+                                "kcal": 61.23
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002504",
+                            "itemName": "Соус \"Терияки\"",
+                            "itemDescription": "Имбирь сухой, мед, чеснок, перец черный молотый, уксус столовый 9%, соус соевый, крахмал картофельный , вода для приготовления блюд.",
+                            "url": "НФ-00002504.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.03,
+                                "fats": 0,
+                                "carbohydrates": 1.53,
+                                "kcal": 6.23
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002758",
+                            "itemName": "Соус кисло-сладкий",
+                            "itemDescription": "Абрикосы, персики консервированные, соус соевый, крахмал картофельный , вода для приготовления блюд.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.03,
+                                "fats": 0.01,
+                                "carbohydrates": 1.79,
+                                "kcal": 7.35
+                            }
+                        },
+                        {
+                            "itemCode": "НФ-00002513",
+                            "itemName": "Соус \"Ягодный\"  (брусничный)",
+                            "itemDescription": "Сахар песок, брусника с/м, крахмал картофельный , вода для приготовления блюд",
+                            "url": "НФ-00002513.jpg",
+                            "quantity": 0,
+                            "itemWeight": 20,
+                            "itemPrice": 10,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 0.11,
+                                "fats": 0.08,
+                                "carbohydrates": 6.1,
+                                "kcal": 25.56
+                            }
+                        }
+                    ]
+                },
+                {
+                    "catName": "Хлеб",
+                    "catCode": "0000033572",
+                    "menuItems": [
+                        {
+                            "itemCode": "НФ-00002559",
+                            "itemName": "Хлеб белый",
+                            "itemDescription": "Дрожжи сухие, масло растительное, мука пшеничная в/с, сахар песок, соль.",
+                            "url": "default.png",
+                            "quantity": 0,
+                            "itemWeight": 38,
+                            "itemPrice": 2,
+                            "addPos": null,
+                            "nutritionTip": {
+                                "proteins": 2.6,
+                                "fats": 0.91,
+                                "carbohydrates": 21.65,
+                                "kcal": 105.15
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
