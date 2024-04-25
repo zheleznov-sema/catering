@@ -1,4 +1,3 @@
-import React, { FC } from 'react';
 import { Imain } from "../types/types";
 import Category from './Category';
 

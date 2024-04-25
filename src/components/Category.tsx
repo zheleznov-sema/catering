@@ -1,6 +1,3 @@
-
-import React, { FC } from 'react';
-
 import { ImenuCategories } from "../types/types";
 
 import Card from "./Card";

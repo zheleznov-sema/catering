@@ -1,17 +1,13 @@
-// Импорт React и его хуков FC (FunctionComponent), useEffect и useState для создания компонента и управления состоянием
-import React, { useState } from 'react';
-// Импорт типа Iitem, описывающего структуру данных элемента
-import { Iitem } from "../types/types";
-// Импорт библиотеки axios для выполнения HTTP-запросов
-import classes from '../styles/card.module.css';
-// Импорт компонента Modal для модального окна
-import Modal from "./Modal";
+import { useState } from 'react';
 import { imageUrl } from '../api/api';
+import classes from '../styles/card.module.css';
+import { Iitem } from "../types/types";
+import Modal from "./Modal";
 
 
 
 interface CardProps {
-    item: Iitem 
+    item: Iitem
 }
 
 const Card = ({ item }: CardProps) => {

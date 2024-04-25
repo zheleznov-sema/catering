@@ -42,6 +42,7 @@
     width: 100%;
     border-radius: 20px 20px 0 0 ;
     margin-bottom: 16px;
+    position: relative;
 }
 
 .img {
@@ -62,11 +63,13 @@
 
 .countItem{
     position:absolute;
-    top:50%;
-    font-size: 45px;
+    top:40%;
+    left: 10px;
+    font-size:60px;
     z-index: 200;
     left: 47%;
     font-weight:bold;
+    color: white;
 }
 
 .description{
@@ -107,9 +110,4 @@
 
 .counterButton:hover {
     background-color: #e0e0e0;
-}
-
-.countValue {
-    font-size: 16px;
-    margin: 0 10px;
 }
